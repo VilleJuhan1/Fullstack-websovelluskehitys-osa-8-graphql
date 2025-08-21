@@ -6,6 +6,12 @@ The application consists of both the front and backend code for a simple library
 
 ## Installation Instructions
 
+Clone the project to your local machine:
+
+```bash
+git clone https://github.com/VilleJuhan1/Fullstack-websovelluskehitys-osa-8-graphql.git
+```
+
 ## Backend Setup
 
 1. **Navigate to the backend directory:**
