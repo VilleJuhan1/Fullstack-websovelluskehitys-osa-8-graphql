@@ -1,4 +1,4 @@
-// Alkuperäiset kirjailijatiedot
+// Alkuperäiset kirjailijatiedot, joita voi käyttää referenssinä tietokannan luomisessa
 export const authors = [
   {
     name: 'Robert Martin',

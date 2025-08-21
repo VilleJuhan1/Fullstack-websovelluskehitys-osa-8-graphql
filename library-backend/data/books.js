@@ -1,4 +1,4 @@
-// Alkuperäiset kirjatiedot
+// Alkuperäiset kirjatiedot, joita voi käyttää referenssinä tietokannan luomisessa
 export const books = [
   {
     title: 'Clean Code',
